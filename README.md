@@ -132,23 +132,20 @@ Below, the most significant three contributions are presented.
 
 - **MULTICOM co-occurring hashtags**
 
-<figure>
-
-![MULTICOM hashtags Bonucci Com1](https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Bonucci%20MULTICOM%20Com1.png)
+<p align="center">
+<img src="https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Bonucci%20MULTICOM%20Com1.png" width="400">
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.1 - Community obtained by running MULTICOM (seed node: Bonucci)</i></figcaption>
-</figure>
+</p>
 
 In this plot, it is possible to see that nodes such as "Shaw", "Donnarumma", "Chiellini" have a high relevance in the community. They are, respectively, the player who scored the only goal in the regular time for England (like Bonucci for Italy), the elected Player of the Tournament and the Captain of Italy. 
 Other nodes highlighted among the most influential refer to a traditional Turkish sport (Yağlı güreş) and to a related festival occurring in Turkey on the same date of the final.     
 
-<figure>
-
-![MULTICOM hashtags Bonucci Com3](https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Bonucci%20MULTICOM%20Com3.png)
+<p align="center">
+<img src="https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Bonucci%20MULTICOM%20Com3.png" width="400">
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.2 - Community obtained by running MULTICOM (center node: Chiesa)</i></figcaption>
-</figure>
-
+</p>
 
 This other plot shows one of the five communities detected in the second loop of the algorithm. In here, the center node (namely the node with the highest degree acting as new seed node) is Chiesa, one of the top player of the Italian football team. In the community are present many Italy team members, and a few European players who played EURO2020.
 
@@ -156,12 +153,11 @@ The other communities have as center node Rashford, italya, Kane and DavidBeckha
 
 - **LEMON co-occurring hashtags**
 
-<figure>
-
-![LEMON hashtags Eriksen](https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Eriksen%20LEMON.png)
+<p align="center">
+<img src="https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Eriksen%20LEMON.png" width="400">
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.3 - Community obtained by running LEMON (seed node: eriksen)</i></figcaption>
-</figure>
+</p>
 
 This plot again displays a community containing co-occurring hashtags. However, LEMON approach does not work well if the detection is run on a simple graph. Many nodes in the detected community share the same information (like "DEN", "Den", "FIN", "Fin", referring to the teams involved in the match), and this happens because the method is not able to recognize words havin the same meaning but different letter case.
 
@@ -169,12 +165,11 @@ To obtain more interpretable results (as shown in the picture), the solution con
 
 - **OSSE co-occurring mentions**
 
-<figure>
-
-![OSSE users Eriksen](https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Users%20Eriksen%20OSSE%20k_clique%20Com2.png)
-
+<p align="center">
+<img src="https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Users%20Eriksen%20OSSE%20k_clique%20Com2.png" width="400">
+ 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.4 - Community obtained by running OSSE (seed node: ChrisEriksen8)</i></figcaption>
-</figure>
+</p>
 
 This last plot underlines the limit of Overlapping Seed Set Expansion. The resulting community contains about 600 nodes, and most of them are very low-degree nodes corresponding to not relevant users. 
 
