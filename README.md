@@ -134,7 +134,7 @@ Below, the most significant three contributions are presented.
 
 <figure>
 
-![MULTICOM hashtags Bonucci Com1](images/Hashtag_Bonucci_MULTICOM_Com1_hubs.png)
+![MULTICOM hashtags Bonucci Com1](images/Hashtags Bonucci MULTICOM Com1.png)
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.1 - Community obtained by running MULTICOM (seed node: Bonucci)</i></figcaption>
 </figure>
@@ -144,7 +144,7 @@ Other nodes highlighted among the most influential refer to a traditional Turkis
 
 <figure>
 
-![MULTICOM hashtags Bonucci Com3](images/Hashtag_Bonucci_MULTICOM_Com3_hubs.png)
+![MULTICOM hashtags Bonucci Com3](images/Hashtags Bonucci MULTICOM Com3.png)
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.2 - Community obtained by running MULTICOM (center node: Chiesa)</i></figcaption>
 </figure>
@@ -158,7 +158,7 @@ The other communities have as center node Rashford, italya, Kane and DavidBeckha
 
 <figure>
 
-![LEMON hashtags Eriksen](images/Hashtag_Eriksen_LEMON_orange.png)
+![LEMON hashtags Eriksen](images/Hashtag Eriksen LEMON.png)
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.3 - Community obtained by running LEMON (seed node: eriksen)</i></figcaption>
 </figure>
@@ -171,7 +171,7 @@ To obtain more interpretable results (as shown in the picture), the solution con
 
 <figure>
 
-![OSSE users Eriksen](images/Users_Eriksen_OSSE_k_clique_Com2.png)
+![OSSE users Eriksen](images/Users Eriksen OSSE k_clique Com2.png)
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.4 - Community obtained by running OSSE (seed node: ChrisEriksen8)</i></figcaption>
 </figure>
