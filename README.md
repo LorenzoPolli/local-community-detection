@@ -144,7 +144,7 @@ Other nodes highlighted among the most influential refer to a traditional Turkis
 
 <figure>
 
-![MULTICOM hashtags Bonucci Com3](images/Hashtags Bonucci MULTICOM Com3.png)
+![MULTICOM hashtags Bonucci Com3](https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Bonucci%20MULTICOM%20Com3.png)
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.2 - Community obtained by running MULTICOM (center node: Chiesa)</i></figcaption>
 </figure>
