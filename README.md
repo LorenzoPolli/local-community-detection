@@ -171,7 +171,7 @@ To obtain more interpretable results (as shown in the picture), the solution con
 
 <figure>
 
-![OSSE users Eriksen](images/Users Eriksen OSSE k_clique Com2.png)
+![OSSE users Eriksen](https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Users%20Eriksen%20OSSE%20k_clique%20Com2.png)
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.4 - Community obtained by running OSSE (seed node: ChrisEriksen8)</i></figcaption>
 </figure>
