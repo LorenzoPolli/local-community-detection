@@ -158,7 +158,7 @@ The other communities have as center node Rashford, italya, Kane and DavidBeckha
 
 <figure>
 
-![LEMON hashtags Eriksen](images/Hashtag Eriksen LEMON.png)
+![LEMON hashtags Eriksen](https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Eriksen%20LEMON.png)
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.3 - Community obtained by running LEMON (seed node: eriksen)</i></figcaption>
 </figure>
