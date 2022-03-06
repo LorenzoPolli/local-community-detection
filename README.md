@@ -133,7 +133,7 @@ Below, the most significant three contributions are presented.
 - **MULTICOM co-occurring hashtags**
 
 <p align="center">
-<img src="https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Bonucci%20MULTICOM%20Com1.png" width="400">
+<img src="https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Bonucci%20MULTICOM%20Com1.png" width="480">
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.1 - Community obtained by running MULTICOM (seed node: Bonucci)</i></figcaption>
 </p>
@@ -142,7 +142,7 @@ In this plot, it is possible to see that nodes such as "Shaw", "Donnarumma", "Ch
 Other nodes highlighted among the most influential refer to a traditional Turkish sport (Yağlı güreş) and to a related festival occurring in Turkey on the same date of the final.     
 
 <p align="center">
-<img src="https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Bonucci%20MULTICOM%20Com3.png" width="400">
+<img src="https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Bonucci%20MULTICOM%20Com3.png" width="480">
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.2 - Community obtained by running MULTICOM (center node: Chiesa)</i></figcaption>
 </p>
@@ -154,7 +154,7 @@ The other communities have as center node Rashford, italya, Kane and DavidBeckha
 - **LEMON co-occurring hashtags**
 
 <p align="center">
-<img src="https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Eriksen%20LEMON.png" width="400">
+<img src="https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Eriksen%20LEMON.png" width="480">
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.3 - Community obtained by running LEMON (seed node: eriksen)</i></figcaption>
 </p>
@@ -166,7 +166,7 @@ To obtain more interpretable results (as shown in the picture), the solution con
 - **OSSE co-occurring mentions**
 
 <p align="center">
-<img src="https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Users%20Eriksen%20OSSE%20k_clique%20Com2.png" width="400">
+<img src="https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Users%20Eriksen%20OSSE%20k_clique%20Com2.png" width="480">
  
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.4 - Community obtained by running OSSE (seed node: ChrisEriksen8)</i></figcaption>
 </p>
