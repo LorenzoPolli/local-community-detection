@@ -134,7 +134,7 @@ Below, the most significant three contributions are presented.
 
 <figure>
 
-![MULTICOM hashtags Bonucci Com1](images/Hashtags Bonucci MULTICOM Com1.png)
+![MULTICOM hashtags Bonucci Com1](https://github.com/LorenzoPolli/local-community-detection/blob/main/images/Hashtags%20Bonucci%20MULTICOM%20Com1.png)
 
 <figcaption align = "left" style="font-size:1.1em"><i>Fig.1 - Community obtained by running MULTICOM (seed node: Bonucci)</i></figcaption>
 </figure>
